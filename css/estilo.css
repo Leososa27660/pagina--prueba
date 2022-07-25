@@ -312,3 +312,20 @@ h5 {
   width: 70px;
     height: 70px;
 }
+
+
+.animaciones {
+  transition: height 1s, width 1s ;
+} 
+.animaciones:hover {
+  height: 1000px;
+  width: 1000px;    
+}
+
+.animaciones1{
+  transition: height 1s, width 1s ;
+} 
+.animaciones1:hover {
+  height: 10px;
+  width: 10px;    
+}
